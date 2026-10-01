@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+.npm-cache/
+dist/
+*.tsbuildinfo
+PROGRESS.md
